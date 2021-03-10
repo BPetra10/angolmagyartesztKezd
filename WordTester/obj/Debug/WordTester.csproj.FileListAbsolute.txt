@@ -1,0 +1,17 @@
+C:\Users\hamul\source\repos\WordTester\WordTester\bin\Debug\WordTester.exe.config
+C:\Users\hamul\source\repos\WordTester\WordTester\bin\Debug\WordTester.exe
+C:\Users\hamul\source\repos\WordTester\WordTester\bin\Debug\WordTester.pdb
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\MainWindow.g.cs
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\App.g.cs
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester_MarkupCompile.cache
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester_MarkupCompile.lref
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\MainWindow.baml
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester.g.resources
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester.Properties.Resources.resources
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester.csproj.GenerateResource.cache
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester.csproj.CoreCompileInputs.cache
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester.exe
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester.pdb
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\TestWindow.g.cs
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\TestWindow.baml
+C:\Users\hamul\source\repos\WordTester\WordTester\obj\Debug\WordTester.csprojAssemblyReference.cache
