@@ -1,0 +1,17 @@
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\bin\Debug\WordTester.exe.config
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\bin\Debug\WordTester.exe
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\bin\Debug\WordTester.pdb
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester.csprojAssemblyReference.cache
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\MainWindow.g.cs
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\App.g.cs
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester_MarkupCompile.cache
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester_MarkupCompile.lref
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\MainWindow.baml
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester.g.resources
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester.Properties.Resources.resources
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester.csproj.GenerateResource.cache
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester.csproj.CoreCompileInputs.cache
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester.exe
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\WordTester.pdb
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\TestWindow.g.cs
+D:\Webfejlesztő\Hagyma alkalmazás-fejlesztés\WordTester\WordTester\obj\Debug\TestWindow.baml
